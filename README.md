@@ -23,7 +23,7 @@ This is a Google Drive clone website that has been created using HTML and CSS. I
 
 ## Screenshots
 
-![Screenshot](Screenshot/Screenshot_1.png)
+![Screenshot](Screenshot_1.png)
 
 ## Feedback
 
